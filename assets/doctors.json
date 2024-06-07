@@ -1,0 +1,51 @@
+[
+    {
+      "doctorImage": "assets/doctor1.jpeg",
+      "doctorName": "Dr.Atharva Varma",
+      "doctorSpecialization": "Cardiologist",
+      "rating": 5,
+      "description": "Expert in heart health and diseases.",
+      "experience": "10 Years"
+    },
+    {
+      "doctorImage": "assets/doctor2.jpg",
+      "doctorName": "Dr.Piyush Agrawal",
+      "doctorSpecialization": "Dermatologist",
+      "rating": 4,
+      "description": "Specialist in skin conditions.",
+      "experience": "8 Years"
+    },
+    {
+      "doctorImage": "assets/doctor3.jpg",
+      "doctorName": "Dr.Varad Surname",
+      "doctorSpecialization": "Neurologist",
+      "rating": 5,
+      "description": "Specializes in brain and nervous system.",
+      "experience": "12 Years"
+    },
+    {
+      "doctorImage": "assets/doctor4.jpg",
+      "doctorName": "Dr.Priya Jagtap",
+      "doctorSpecialization": "Pediatrician",
+      "rating": 3,
+      "description": "Focuses on children's health.",
+      "experience": "6 Years"
+    },
+    {
+      "doctorImage": "assets/doctor5.jpg",
+      "doctorName": "Dr.Neha Naik",
+      "doctorSpecialization": "Ophthalmologist",
+      "rating": 2,
+      "description": "Expert in eye care and surgery.",
+      "experience": "5 Years"
+    },
+    {
+      "doctorImage": "assets/doctor6.jpg",
+      "doctorName": "Dr.Pooja Patil",
+      "doctorSpecialization": "Dentist",
+      "rating": 4,
+      "description": "Specialist in dental care.",
+      "experience": "5 Years"
+    }
+  ]
+  
